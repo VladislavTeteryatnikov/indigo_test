@@ -1,0 +1,17 @@
+{
+    "name": "vladi/indigo_test",
+    "autoload": {
+        "psr-4": {
+            "Vladi\\Test\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vladislav Teteryatnikov",
+            "email": "vladislav.teteryatnikov@gmail.com"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^3.8"
+    }
+}
